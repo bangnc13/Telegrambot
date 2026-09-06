@@ -267,7 +267,7 @@ async def sucu_command(update: Update, context: ContextTypes.DEFAULT_TYPE):
 # ==========================================
 if __name__ == "__main__":
     # Thay CHUỖI TOKEN Telegram Bot của bạn vào đây
-    TOKEN = "THAY_TOKEN_CỦA_BẠN_VÀO_ĐÂY"
+    TOKEN = "8844021111:AAEni2Du4X24eDCOr0jUghcflx3SlG1_Fdc"
 
     app = ApplicationBuilder().token(TOKEN).build()
     app.add_handler(CommandHandler("start", start_command))
