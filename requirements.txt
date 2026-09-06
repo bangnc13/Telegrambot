@@ -1,12 +1,5 @@
-streamlit
-pandas
+python-telegram-bot>=20.0
 networkx
-folium
-streamlit-folium
-openpyxl
-streamlit
 pandas
 openpyxl
-folium
-streamlit-folium
-networkx
+requests
